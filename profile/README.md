@@ -1,5 +1,3 @@
----
-
 ## 🌍 About The Antara Foundation (TAF)
 
 In remote villages across India, reaching a health center can take hours—a delay that can cost lives. **The Antara Foundation** partners with governments and local communities to support the public health system in delivering scalable, sustainable solutions for maternal and child health.
